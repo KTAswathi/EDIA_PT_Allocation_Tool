@@ -1,0 +1,33 @@
+student_id,programme,programme_name,allocation_stream,sex,country,fee_status,year_of_study,status,age,mature_student,entry_route,returning_student,support_need
+SYN-STU-001,4COSC005T,Computer Science (MSc),computer_science_msc,F,India,Overseas,1,Registered online,34,True,Postgraduate,False,none
+SYN-STU-002,4COSC006UU,Computer Science (BSc),cs_year_1,F,Northern Ireland,Home,1,Registered student,19,False,IFP,False,none
+SYN-STU-003,4COSC019UU,Mathematics and Computer Science (BSc),maths_and_cs_year_1,M,England,Home,1,Registered online,18,False,A-level,False,none
+SYN-STU-004,4COSC018UU,Mathematics and Computer Science (MEng),maths_and_cs_year_1,F,England,Home,1,Provisional Returner,17,False,A-level,True,standard
+SYN-STU-005,4COSC005T,Computer Science (MSc),computer_science_msc,M,Scotland,Home,1,Registered online,29,True,Postgraduate,False,standard
+SYN-STU-006,4COSC019UU,Mathematics and Computer Science (BSc),maths_and_cs_year_1,M,India,Overseas,1,Registered online,19,False,A-level,False,complex
+SYN-STU-007,4COMS001UU,Computer Science with Artificial Intelligence (MEng),cs_with_ai_year_1,M,England,Home,1,Registered online,18,False,Access,False,none
+SYN-STU-008,4COSC006UU,Computer Science (BSc),cs_year_1,M,England,Home,1,Registered online,17,False,Foundation,False,none
+SYN-STU-009,4COMS002UU,Computer Science with Artificial Intelligence (BSc),cs_with_ai_year_1,M,Wales,Home,1,Registered student,20,False,A-level,False,standard
+SYN-STU-010,4COSC018UU,Mathematics and Computer Science (MEng),maths_and_cs_year_1,M,Nigeria,Overseas,1,Registered student,24,True,Foundation,False,none
+SYN-STU-011,4COMS002UU,Computer Science with Artificial Intelligence (BSc),cs_with_ai_year_1,F,Scotland,Home,1,Registered student,21,True,Access,False,standard
+SYN-STU-012,4COSC019UU,Mathematics and Computer Science (BSc),maths_and_cs_year_1,M,England,Home,1,Provisionally Registered,20,False,A-level,False,complex
+SYN-STU-013,4COSC012DT,Cyber Security (Infrastructures Security) (MSc),cyber_msc,M,England,Home,1,Registered online,26,True,Postgraduate,False,standard
+SYN-STU-014,4COSC018UU,Mathematics and Computer Science (MEng),maths_and_cs_year_1,F,China,Overseas,1,Registered student,31,True,A-level,False,none
+SYN-STU-015,4COSC005T,Computer Science (MSc),computer_science_msc,M,Wales,Home,1,Registered online,22,True,Postgraduate,False,none
+SYN-STU-016,4COMS001UU,Computer Science with Artificial Intelligence (MEng),cs_with_ai_year_1,M,Wales,Home,1,Registered online,20,False,A-level,False,standard
+SYN-STU-017,4COSC024DT,Immersive Technologies (MSc),immersive_technologies_msc,M,England,Home,1,Provisional Returner,41,True,Postgraduate,True,none
+SYN-STU-018,4COSC006UU,Computer Science (BSc),cs_year_1,M,China,Overseas,1,Registered online,19,False,BTEC,False,none
+SYN-STU-019,4COSC018UU,Mathematics and Computer Science (MEng),maths_and_cs_year_1,F,England,Home,1,Registered online,18,False,IFP,False,none
+SYN-STU-020,4COMS002UU,Computer Science with Artificial Intelligence (BSc),cs_with_ai_year_1,M,Nigeria,Overseas,1,Provisionally Registered,18,False,A-level,False,none
+SYN-STU-021,4COSC006UU,Computer Science (BSc),cs_year_1,M,England,Home,1,Registered online,19,False,BTEC,False,standard
+SYN-STU-022,4COMS002UU,Computer Science with Artificial Intelligence (BSc),cs_with_ai_year_1,F,China,Overseas,1,Provisionally Registered,18,False,Access,False,complex
+SYN-STU-023,4COMS001UU,Computer Science with Artificial Intelligence (MEng),cs_with_ai_year_1,M,China,Overseas,1,Registered student,20,False,BTEC,False,none
+SYN-STU-024,4COSC006UU,Computer Science (BSc),cs_year_1,M,England,Home,1,Registered online,19,False,A-level,False,none
+SYN-STU-025,4COSC012DT,Cyber Security (Infrastructures Security) (MSc),cyber_msc,M,England,Home,1,Registered online,21,True,Postgraduate,False,standard
+SYN-STU-026,4COSC006UU,Computer Science (BSc),cs_year_1,F,Northern Ireland,Home,1,Registered online,20,False,BTEC,False,none
+SYN-STU-027,4COSC012DT,Cyber Security (Infrastructures Security) (MSc),cyber_msc,F,Malaysia,Overseas,1,Registered online,24,True,Postgraduate,False,complex
+SYN-STU-028,4COSC024DT,Immersive Technologies (MSc),immersive_technologies_msc,M,England,Home,1,Provisional Returner,23,True,Postgraduate,True,none
+SYN-STU-029,4COSC019UU,Mathematics and Computer Science (BSc),maths_and_cs_year_1,M,England,Home,1,Registered online,46,True,A-level,False,none
+SYN-STU-030,4COMS001UU,Computer Science with Artificial Intelligence (MEng),cs_with_ai_year_1,M,England,Home,1,Registered student,19,False,Foundation,False,none
+SYN-STU-031,4COSC006UU,Computer Science (BSc),cs_year_1,M,India,Overseas,1,Provisionally Registered,20,False,A-level,False,standard
+SYN-STU-032,4COSC006UU,Computer Science (BSc),cs_year_1,F,England,Home,1,Registered student,18,False,A-level,False,none

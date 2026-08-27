@@ -1,0 +1,3 @@
+tutor_id,tutor_name,eligible_allocation_streams,cs_year_1,maths_and_cs_year_1,cs_with_ai_year_1,computer_science_msc,cyber_msc,immersive_technologies_msc,dbs_checked,experience_level,preferred_capacity
+IMP-TUT-01,Synthetic Tutor 01,cs_with_ai_year_1,no,no,yes,no,no,no,False,standard,8
+IMP-TUT-02,Synthetic Tutor 02,cs_year_1,yes,no,no,no,no,no,True,experienced,8

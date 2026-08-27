@@ -1,0 +1,2 @@
+student_id,programme,programme_name,allocation_stream,sex,country,fee_status,year_of_study,status,age,mature_student,entry_route,returning_student,support_need
+IMP-STU-001,4COMS002UU,Computer Science with Artificial Intelligence (BSc),cs_with_ai_year_1,F,China,Overseas,1,Provisionally Registered,17,False,IFP,False,complex

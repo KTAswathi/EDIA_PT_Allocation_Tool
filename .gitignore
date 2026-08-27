@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Real/internal annual Excel files
+*.xlsx
+!tests/fixtures/accepted_applicants_populated.xlsx
+
+# Internal guidance/source PDFs
+*.pdf
+
+# Generated or historical outputs
+data/output/
+data/historical_clean/
+annual_inputs/
+annual_outputs/

@@ -1,0 +1,7 @@
+tutor_id,tutor_name,eligible_allocation_streams,cs_year_1,maths_and_cs_year_1,cs_with_ai_year_1,computer_science_msc,cyber_msc,immersive_technologies_msc,dbs_checked,experience_level,preferred_capacity
+SYN-TUT-01,Synthetic Tutor 01,cs_year_1|maths_and_cs_year_1,yes,yes,no,no,no,no,True,experienced,8
+SYN-TUT-02,Synthetic Tutor 02,cs_year_1|computer_science_msc,yes,no,no,yes,no,no,False,standard,8
+SYN-TUT-03,Synthetic Tutor 03,maths_and_cs_year_1|computer_science_msc|immersive_technologies_msc,no,yes,no,yes,no,yes,True,experienced,8
+SYN-TUT-04,Synthetic Tutor 04,maths_and_cs_year_1|cs_with_ai_year_1,no,yes,yes,no,no,no,False,standard,8
+SYN-TUT-05,Synthetic Tutor 05,cs_with_ai_year_1|cyber_msc,no,no,yes,no,yes,no,True,experienced,8
+SYN-TUT-06,Synthetic Tutor 06,cyber_msc|immersive_technologies_msc,no,no,no,no,yes,yes,False,standard,8
