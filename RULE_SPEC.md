@@ -19,6 +19,12 @@ Where current Faculty guidance conflicts with historical workbook rules or annot
 
 ---
 
+## Staff user guide
+
+For step-by-step annual operating instructions, see the [User Guide](docs/user_guide.pdf).
+
+---
+
 ## 1. Input: students
 
 Each student should have:
