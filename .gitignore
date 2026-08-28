@@ -15,6 +15,9 @@ venv/
 # Internal guidance/source PDFs
 *.pdf
 
+# Allow the public staff user guide
+!docs/user_guide.pdf
+
 # Generated or historical outputs
 data/output/
 data/historical_clean/
